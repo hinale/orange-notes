@@ -13,6 +13,7 @@ Diante da nossa problemática surge o Orange Notes, uma plataforma onde as pesso
 - HTML
 - CSS
 - Javascript
+- NodeJS
 
 # Desenvolvimento
 
@@ -20,3 +21,7 @@ Criado repositório 'orange-juice', adicionado README.md com as informações pr
 
 #
 
+- Iniciado npm e instalado pacote express.
+- Criado a rota principal para o index.js.
+- Adicionado a pasta pages onde ficaram todas os arquivos html.
+- Adicionado .gitignore.

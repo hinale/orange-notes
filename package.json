@@ -1,0 +1,22 @@
+{
+  "name": "oranje-notes",
+  "version": "1.0.0",
+  "description": "Projeto de organização de estudos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinale/orange-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinale/orange-notes/issues"
+  },
+  "homepage": "https://github.com/hinale/orange-notes#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
